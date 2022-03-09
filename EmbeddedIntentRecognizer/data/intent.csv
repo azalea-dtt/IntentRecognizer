@@ -1,0 +1,21 @@
+word,topic,In city,people,time,book,weather
+weather,0,0,0,0,0,1
+fact,1,0,0,0,0,0
+movie,1,0,0,0,0,0
+news,1,0,0,0,0,0
+kpop,1,0,0,0,0,0
+war,1,0,0,0,0,0
+London,0,1,0,0,0,0
+Paris,0,1,0,0,0,0
+Seoul,0,1,0,0,0,0
+Berlin,0,1,0,0,0,0
+New York,0,1,0,0,0,0
+Michael Jackson,0,0,1,0,0,0
+Celine Dion,0,0,1,0,0,0
+tomorrow,0,0,0,1,0,0
+today,0,0,0,1,0,0
+yesterday,0,0,0,1,0,0
+Moscow,0,1,0,0,0,0
+Atomic Habits,0,0,0,0,1,0
+sunny,0,0,0,0,0,1
+windy,0,0,0,0,0,1
